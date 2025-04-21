@@ -1,0 +1,1 @@
+<PASTE THE FULL outputs.tf FROM ABOVE HERE>

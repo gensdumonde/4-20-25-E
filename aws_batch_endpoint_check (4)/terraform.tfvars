@@ -1,0 +1,5 @@
+s3_bucket     = "my-batch-json-results-bucket"
+userid        = "apiuser"
+password      = "apipassword"
+endpoint_urls = "https://jsonplaceholder.typicode.com/posts"
+alert_email   = "you@example.com"
