@@ -1,0 +1,22 @@
+{
+	"contacts": [{
+		"contact_1": {
+			"fName": "Foo",
+			"lName": "Bar",
+			"email": "foobar@test.com",
+			"cell": "555.555.5551"
+		},
+		"contact_2": {
+			"fName": "Biz",
+			"lName": "Baz",
+			"email": "bizbaz@test.com",
+			"cell": "555.555.5552"
+		},
+		"contact_3": {
+			"fName": "Bing",
+			"lName": "Bang",
+			"email": "bingbang@test.com",
+			"cell": "555.555.5553"
+		}
+	}]
+}

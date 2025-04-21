@@ -1,0 +1,1 @@
+<PASTE THE FULL main.tf FROM ABOVE HERE>
